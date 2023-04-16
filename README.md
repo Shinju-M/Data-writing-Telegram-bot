@@ -49,5 +49,5 @@ You can use the following commands in order to get information performed on the 
 4. /time_curator - sends an average reply time for each chat curator.
 ![изображение](https://user-images.githubusercontent.com/120586885/232031814-05e5a271-8e51-40a0-8a7d-5e3c3b29be1b.png)
 
-
+All of the above is sent to DM of a person who used the command (the command itself has to be used in a chat)
 </br>
