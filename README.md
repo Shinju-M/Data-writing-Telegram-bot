@@ -51,3 +51,20 @@ You can use the following commands in order to get information performed on the 
 
 All of the above is sent to DM of a person who used the command (the command itself has to be used in a chat)
 </br>
+
+<!-- CONTRIBUTING -->
+## Contributing
+
+Contributions to this project are welcome! If you have any suggestions and improvements, please fork the repo and create a pull request. You can also simply open an issue.
+
+<!-- LICENSE -->
+## License
+
+Distributed under the MIT License. See LICENSE for more information.
+
+<!-- CONTACT -->
+## Contact
+
+Margarita Soloveva - [@Shinju_M](https://t.me/Shinju_M) - flyingadelie@gmail.com
+
+Project Link: [https://github.com/Shinju-M/Data-writing-Telegram-bot](https://github.com/Shinju-M/Data-writing-Telegram-bot/)
